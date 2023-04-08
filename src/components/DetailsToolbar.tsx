@@ -1,4 +1,4 @@
-import { Box, Button, Divider, Paper, Typography, useTheme } from "@mui/material"
+import { Box, Button, Paper, Typography, useTheme } from "@mui/material"
 
 interface DetailsToolbarProps {
   goBack: () => void;

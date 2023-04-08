@@ -1,6 +1,6 @@
-import styled from "@emotion/styled";
 import { Box, Paper, Typography, useTheme } from "@mui/material"
 import { ReactNode } from "react";
+import styled from "styled-components";
 
 interface PagesLayoutProps {
   children: ReactNode;
